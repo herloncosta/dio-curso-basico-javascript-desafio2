@@ -1,4 +1,4 @@
-# Javascript Básico - Desafio 1
+# Javascript Básico - Desafio 2
 ## Criando uma lista de tarefas dinâmica com HTML5, CSS3 e Javascript.
 
 ## Conceitos utilizados
