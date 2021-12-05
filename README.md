@@ -1,7 +1,9 @@
 # Javascript Básico - Desafio 1
 ## Criando uma lista de tarefas dinâmica com HTML5, CSS3 e Javascript.
 
-- Criar aplicação com Javascript puro
-- Utilziar conceitos de captura de eventos
-- Utilizar conceitos de manipulação da DOM
-- Utilizar conceitos de criação de elementos da DOM
+## Conceitos utilizados
+
+- Javascript puro
+- Captura e manipulação de eventos
+- Manipulação da Árvore DOM (Document Object Model)
+- Criação de elementos da Árvore DOM
